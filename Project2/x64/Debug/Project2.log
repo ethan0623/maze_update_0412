@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中繼目錄 (x64\Debug\) 包含從其他專案 (Project2.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  functionofmaze.cpp
+C:\Users\ethan\source\repos\maze03292100\Project2\functionofmaze.cpp(118,44): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\ethan\source\repos\maze03292100\Project2\functionofmaze.cpp(118,36): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\ethan\source\repos\maze03292100\Project2\functionofmaze.cpp(127,61): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\ethan\source\repos\maze03292100\Project2\functionofmaze.cpp(127,42): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\ethan\source\repos\maze03292100\Project2\functionofmaze.cpp(133,61): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\ethan\source\repos\maze03292100\Project2\functionofmaze.cpp(133,42): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\ethan\source\repos\maze03292100\Project2\functionofmaze.cpp(195,37): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\ethan\source\repos\maze03292100\Project2\functionofmaze.cpp(195,27): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Project2.vcxproj -> C:\Users\ethan\source\repos\maze03292100\x64\Debug\maze.exe
